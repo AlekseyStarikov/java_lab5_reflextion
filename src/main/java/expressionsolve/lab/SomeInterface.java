@@ -1,2 +1,11 @@
-package expressionsolve.lab;public interface SomeInterface {
+package expressionsolve.lab;
+/**
+ * @author Алексей Стариков
+ */
+public interface SomeInterface {
+    /**
+     * Выполняет действие, связанное с реализующим классом
+     */
+    void doSomething();
 }
+
